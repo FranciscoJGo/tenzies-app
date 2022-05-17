@@ -1,1 +1,1 @@
-This is an example of a meme generator page using React components, props, state, useEffect, array.map, mapping components, key prop I did using the videos of https://scrimba.com/playlist/pqXJpCQ from the Learn React course The page is found at: 
+This is an example of a tenzies app a popular game that using React components, props, state, useEffect, array.map, mapping components, key prop I did using the videos of https://scrimba.com/playlist/pYkgpAP from the Learn React course The page is found at: https://franciscojgo.github.io/tenzies-app/
